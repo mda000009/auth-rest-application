@@ -1,5 +1,8 @@
 spring.application.name: auth-rest-application
 
+server:
+  port: 8081
+
 spring:
   security:
     oauth2:
