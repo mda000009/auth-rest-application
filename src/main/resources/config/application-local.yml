@@ -1,0 +1,8 @@
+spring.application.name: auth-rest-application
+
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://your-issuer-uri # Cambia esto por la URL del emisor del token
