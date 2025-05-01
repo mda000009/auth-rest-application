@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.reactive.function.client.ExchangeStrategies;
 import org.springframework.web.reactive.function.client.WebClient;
 
 /**
@@ -39,7 +40,13 @@ public class ProxyController implements UserManagementApi {
 
     @Override
     public ResponseEntity<GetUsersByGender200Response> getUsersByGender(String gender) {
-        GetUsersByGender200Response response =  webClientBuilder.build()
+        WebClient webClient = webClientBuilder
+                .exchangeStrategies(ExchangeStrategies.builder()
+                        .codecs(configurer -> configurer.defaultCodecs().maxInMemorySize(10 * 1024 * 1024))
+                        .build())
+                .build();
+
+        GetUsersByGender200Response response = webClient
                 .get()
                 .uri("http://localhost:8080/tfm-rest-application/v1/getUsersByGender?gender=" + gender)
                 .retrieve()
