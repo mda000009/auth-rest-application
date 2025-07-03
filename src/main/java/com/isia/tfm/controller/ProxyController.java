@@ -29,7 +29,7 @@ public class ProxyController implements UserManagementApi {
     public ResponseEntity<CreateUser201Response> createUser(User user) {
         CreateUser201Response response = webClientBuilder.build()
                 .post()
-                .uri("http://localhost:8080/tfm-rest-application/v1/createUser")
+                .uri("http://tfm-rest-container:8080/tfm-rest-application/v1/createUser")
                 .bodyValue(user)
                 .retrieve()
                 .bodyToMono(CreateUser201Response.class)
@@ -48,7 +48,7 @@ public class ProxyController implements UserManagementApi {
 
         GetUsersByGender200Response response = webClient
                 .get()
-                .uri("http://localhost:8080/tfm-rest-application/v1/getUsersByGender?gender=" + gender)
+                .uri("http://tfm-rest-container:8080/tfm-rest-application/v1/getUsersByGender?gender=" + gender)
                 .retrieve()
                 .bodyToMono(GetUsersByGender200Response.class)
                 .block();
