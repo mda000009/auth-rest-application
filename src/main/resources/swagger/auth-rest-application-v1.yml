@@ -167,6 +167,607 @@ components:
           type: string
           description: User's phone number.
           example: '1234567890'
+        preference1:
+          type: string
+          description: User preference 1.
+        preference2:
+          type: string
+          description: User preference 2.
+        preference3:
+          type: string
+          description: User preference 3.
+        preference4:
+          type: string
+          description: User preference 4.
+        preference5:
+          type: string
+          description: User preference 5.
+        preference6:
+          type: string
+          description: User preference 6.
+        preference7:
+          type: string
+          description: User preference 7.
+        preference8:
+          type: string
+          description: User preference 8.
+        preference9:
+          type: string
+          description: User preference 9.
+        preference10:
+          type: string
+          description: User preference 10.
+        preference11:
+          type: string
+          description: User preference 11.
+        preference12:
+          type: string
+          description: User preference 12.
+        preference13:
+          type: string
+          description: User preference 13.
+        preference14:
+          type: string
+          description: User preference 14.
+        preference15:
+          type: string
+          description: User preference 15.
+        preference16:
+          type: string
+          description: User preference 16.
+        preference17:
+          type: string
+          description: User preference 17.
+        preference18:
+          type: string
+          description: User preference 18.
+        preference19:
+          type: string
+          description: User preference 19.
+        preference20:
+          type: string
+          description: User preference 20.
+        preference21:
+          type: string
+          description: User preference 21.
+        preference22:
+          type: string
+          description: User preference 22.
+        preference23:
+          type: string
+          description: User preference 23.
+        preference24:
+          type: string
+          description: User preference 24.
+        preference25:
+          type: string
+          description: User preference 25.
+        preference26:
+          type: string
+          description: User preference 26.
+        preference27:
+          type: string
+          description: User preference 27.
+        preference28:
+          type: string
+          description: User preference 28.
+        preference29:
+          type: string
+          description: User preference 29.
+        preference30:
+          type: string
+          description: User preference 30.
+        preference31:
+          type: string
+          description: User preference 31.
+        preference32:
+          type: string
+          description: User preference 32.
+        preference33:
+          type: string
+          description: User preference 33.
+        preference34:
+          type: string
+          description: User preference 34.
+        preference35:
+          type: string
+          description: User preference 35.
+        preference36:
+          type: string
+          description: User preference 36.
+        preference37:
+          type: string
+          description: User preference 37.
+        preference38:
+          type: string
+          description: User preference 38.
+        preference39:
+          type: string
+          description: User preference 39.
+        preference40:
+          type: string
+          description: User preference 40.
+        preference41:
+          type: string
+          description: User preference 41.
+        preference42:
+          type: string
+          description: User preference 42.
+        preference43:
+          type: string
+          description: User preference 43.
+        preference44:
+          type: string
+          description: User preference 44.
+        preference45:
+          type: string
+          description: User preference 45.
+        preference46:
+          type: string
+          description: User preference 46.
+        preference47:
+          type: string
+          description: User preference 47.
+        preference48:
+          type: string
+          description: User preference 48.
+        preference49:
+          type: string
+          description: User preference 49.
+        preference50:
+          type: string
+          description: User preference 50.
+        preference51:
+          type: string
+          description: User preference 51.
+        preference52:
+          type: string
+          description: User preference 52.
+        preference53:
+          type: string
+          description: User preference 53.
+        preference54:
+          type: string
+          description: User preference 54.
+        preference55:
+          type: string
+          description: User preference 55.
+        preference56:
+          type: string
+          description: User preference 56.
+        preference57:
+          type: string
+          description: User preference 57.
+        preference58:
+          type: string
+          description: User preference 58.
+        preference59:
+          type: string
+          description: User preference 59.
+        preference60:
+          type: string
+          description: User preference 60.
+        preference61:
+          type: string
+          description: User preference 61.
+        preference62:
+          type: string
+          description: User preference 62.
+        preference63:
+          type: string
+          description: User preference 63.
+        preference64:
+          type: string
+          description: User preference 64.
+        preference65:
+          type: string
+          description: User preference 65.
+        preference66:
+          type: string
+          description: User preference 66.
+        preference67:
+          type: string
+          description: User preference 67.
+        preference68:
+          type: string
+          description: User preference 68.
+        preference69:
+          type: string
+          description: User preference 69.
+        preference70:
+          type: string
+          description: User preference 70.
+        preference71:
+          type: string
+          description: User preference 71.
+        preference72:
+          type: string
+          description: User preference 72.
+        preference73:
+          type: string
+          description: User preference 73.
+        preference74:
+          type: string
+          description: User preference 74.
+        preference75:
+          type: string
+          description: User preference 75.
+        preference76:
+          type: string
+          description: User preference 76.
+        preference77:
+          type: string
+          description: User preference 77.
+        preference78:
+          type: string
+          description: User preference 78.
+        preference79:
+          type: string
+          description: User preference 79.
+        preference80:
+          type: string
+          description: User preference 80.
+        preference81:
+          type: string
+          description: User preference 81.
+        preference82:
+          type: string
+          description: User preference 82.
+        preference83:
+          type: string
+          description: User preference 83.
+        preference84:
+          type: string
+          description: User preference 84.
+        preference85:
+          type: string
+          description: User preference 85.
+        preference86:
+          type: string
+          description: User preference 86.
+        preference87:
+          type: string
+          description: User preference 87.
+        preference88:
+          type: string
+          description: User preference 88.
+        preference89:
+          type: string
+          description: User preference 89.
+        preference90:
+          type: string
+          description: User preference 90.
+        preference91:
+          type: string
+          description: User preference 91.
+        preference92:
+          type: string
+          description: User preference 92.
+        preference93:
+          type: string
+          description: User preference 93.
+        preference94:
+          type: string
+          description: User preference 94.
+        preference95:
+          type: string
+          description: User preference 95.
+        preference96:
+          type: string
+          description: User preference 96.
+        preference97:
+          type: string
+          description: User preference 97.
+        preference98:
+          type: string
+          description: User preference 98.
+        preference99:
+          type: string
+          description: User preference 99.
+        preference100:
+          type: string
+          description: User preference 100.
+        preference101:
+          type: string
+          description: User preference 101.
+        preference102:
+          type: string
+          description: User preference 102.
+        preference103:
+          type: string
+          description: User preference 103.
+        preference104:
+          type: string
+          description: User preference 104.
+        preference105:
+          type: string
+          description: User preference 105.
+        preference106:
+          type: string
+          description: User preference 106.
+        preference107:
+          type: string
+          description: User preference 107.
+        preference108:
+          type: string
+          description: User preference 108.
+        preference109:
+          type: string
+          description: User preference 109.
+        preference110:
+          type: string
+          description: User preference 110.
+        preference111:
+          type: string
+          description: User preference 111.
+        preference112:
+          type: string
+          description: User preference 112.
+        preference113:
+          type: string
+          description: User preference 113.
+        preference114:
+          type: string
+          description: User preference 114.
+        preference115:
+          type: string
+          description: User preference 115.
+        preference116:
+          type: string
+          description: User preference 116.
+        preference117:
+          type: string
+          description: User preference 117.
+        preference118:
+          type: string
+          description: User preference 118.
+        preference119:
+          type: string
+          description: User preference 119.
+        preference120:
+          type: string
+          description: User preference 120.
+        preference121:
+          type: string
+          description: User preference 121.
+        preference122:
+          type: string
+          description: User preference 122.
+        preference123:
+          type: string
+          description: User preference 123.
+        preference124:
+          type: string
+          description: User preference 124.
+        preference125:
+          type: string
+          description: User preference 125.
+        preference126:
+          type: string
+          description: User preference 126.
+        preference127:
+          type: string
+          description: User preference 127.
+        preference128:
+          type: string
+          description: User preference 128.
+        preference129:
+          type: string
+          description: User preference 129.
+        preference130:
+          type: string
+          description: User preference 130.
+        preference131:
+          type: string
+          description: User preference 131.
+        preference132:
+          type: string
+          description: User preference 132.
+        preference133:
+          type: string
+          description: User preference 133.
+        preference134:
+          type: string
+          description: User preference 134.
+        preference135:
+          type: string
+          description: User preference 135.
+        preference136:
+          type: string
+          description: User preference 136.
+        preference137:
+          type: string
+          description: User preference 137.
+        preference138:
+          type: string
+          description: User preference 138.
+        preference139:
+          type: string
+          description: User preference 139.
+        preference140:
+          type: string
+          description: User preference 140.
+        preference141:
+          type: string
+          description: User preference 141.
+        preference142:
+          type: string
+          description: User preference 142.
+        preference143:
+          type: string
+          description: User preference 143.
+        preference144:
+          type: string
+          description: User preference 144.
+        preference145:
+          type: string
+          description: User preference 145.
+        preference146:
+          type: string
+          description: User preference 146.
+        preference147:
+          type: string
+          description: User preference 147.
+        preference148:
+          type: string
+          description: User preference 148.
+        preference149:
+          type: string
+          description: User preference 149.
+        preference150:
+          type: string
+          description: User preference 150.
+        preference151:
+          type: string
+          description: User preference 151.
+        preference152:
+          type: string
+          description: User preference 152.
+        preference153:
+          type: string
+          description: User preference 153.
+        preference154:
+          type: string
+          description: User preference 154.
+        preference155:
+          type: string
+          description: User preference 155.
+        preference156:
+          type: string
+          description: User preference 156.
+        preference157:
+          type: string
+          description: User preference 157.
+        preference158:
+          type: string
+          description: User preference 158.
+        preference159:
+          type: string
+          description: User preference 159.
+        preference160:
+          type: string
+          description: User preference 160.
+        preference161:
+          type: string
+          description: User preference 161.
+        preference162:
+          type: string
+          description: User preference 162.
+        preference163:
+          type: string
+          description: User preference 163.
+        preference164:
+          type: string
+          description: User preference 164.
+        preference165:
+          type: string
+          description: User preference 165.
+        preference166:
+          type: string
+          description: User preference 166.
+        preference167:
+          type: string
+          description: User preference 167.
+        preference168:
+          type: string
+          description: User preference 168.
+        preference169:
+          type: string
+          description: User preference 169.
+        preference170:
+          type: string
+          description: User preference 170.
+        preference171:
+          type: string
+          description: User preference 171.
+        preference172:
+          type: string
+          description: User preference 172.
+        preference173:
+          type: string
+          description: User preference 173.
+        preference174:
+          type: string
+          description: User preference 174.
+        preference175:
+          type: string
+          description: User preference 175.
+        preference176:
+          type: string
+          description: User preference 176.
+        preference177:
+          type: string
+          description: User preference 177.
+        preference178:
+          type: string
+          description: User preference 178.
+        preference179:
+          type: string
+          description: User preference 179.
+        preference180:
+          type: string
+          description: User preference 180.
+        preference181:
+          type: string
+          description: User preference 181.
+        preference182:
+          type: string
+          description: User preference 182.
+        preference183:
+          type: string
+          description: User preference 183.
+        preference184:
+          type: string
+          description: User preference 184.
+        preference185:
+          type: string
+          description: User preference 185.
+        preference186:
+          type: string
+          description: User preference 186.
+        preference187:
+          type: string
+          description: User preference 187.
+        preference188:
+          type: string
+          description: User preference 188.
+        preference189:
+          type: string
+          description: User preference 189.
+        preference190:
+          type: string
+          description: User preference 190.
+        preference191:
+          type: string
+          description: User preference 191.
+        preference192:
+          type: string
+          description: User preference 192.
+        preference193:
+          type: string
+          description: User preference 193.
+        preference194:
+          type: string
+          description: User preference 194.
+        preference195:
+          type: string
+          description: User preference 195.
+        preference196:
+          type: string
+          description: User preference 196.
+        preference197:
+          type: string
+          description: User preference 197.
+        preference198:
+          type: string
+          description: User preference 198.
+        preference199:
+          type: string
+          description: User preference 199.
+        preference200:
+          type: string
+          description: User preference 200.
+
       required:
         - firstName
         - lastName
